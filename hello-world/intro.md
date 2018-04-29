@@ -1,1 +1,1 @@
-Welcome to a very simple Eupraxia Labs Katacoda Scenario!
+Welcome to your first Katacoda Scenario!
